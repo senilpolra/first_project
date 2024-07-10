@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="148dp"
+        android:layout_height="220dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/IvWhtch"
+            android:layout_width="145dp"
+            android:layout_height="100dp"
+            android:src="@drawable/mask_group"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/ItemList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IWC Schaffhausen 2021 Pilot's Watch 'SIHH 2019' 44mm "
+            android:textSize="15sp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/TvPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹650"
+            android:textSize="23dp"
+            android:fontFamily="@font/poppinsmedium_400"
+            android:textColor="@color/black"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/TvDiscount"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹1599"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="200dp"
+            />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="------"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="200dp"
+            />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/TvOffer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="60% off"
+            android:textSize="13dp"
+            android:textColor="#FE735C"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="200dp"
+            />
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="148dp"
+        android:layout_height="220dp"
+        android:layout_marginLeft="160dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="145dp"
+            android:layout_height="100dp"
+            android:src="@drawable/mask_group1"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Labbin White Sneakers For Men and Female"
+            android:textSize="15sp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹650"
+            android:textSize="23dp"
+            android:fontFamily="@font/poppinsmedium_400"
+            android:textColor="@color/black"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹1250"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="200dp"
+            />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="------"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="200dp"
+            />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="70% off"
+            android:textSize="13dp"
+            android:textColor="#FE735C"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="200dp"
+            />
+
+    </androidx.cardview.widget.CardView>
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="148dp"
+        android:layout_height="220dp"
+        android:layout_marginLeft="330dp">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="145dp"
+            android:layout_height="100dp"
+            android:src="@drawable/mask_group2"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Mammon Women's Handbag(Set of 3, Beige)"
+            android:textSize="15sp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹720"
+            android:textSize="23dp"
+            android:fontFamily="@font/poppinsmedium_400"
+            android:textColor="@color/black"
+            android:layout_marginTop="170dp"
+            android:layout_marginLeft="5dp"/>
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="₹1999"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="200dp"
+            />
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="------"
+            android:textSize="15dp"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="200dp"
+            />
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="70% off"
+            android:textSize="13dp"
+            android:textColor="#FE735C"
+            android:fontFamily="@font/poppinsregular500"
+            android:layout_marginLeft="60dp"
+            android:layout_marginTop="200dp"
+            />
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.cardview.widget.CardView>
